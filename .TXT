@@ -1,0 +1,14 @@
+<html>
+<head><title>home page</title></head>
+
+<body> 
+<p>
+<center><font color="red" size="12"><b>ALTHEA MARIELLE C. LABAO</b><i></center>
+<p>
+<br>
+<h6> i am happy to serve you today.</h6><u>
+<p><br>
+<u> how may i help you?</u>
+
+</body>
+<html>
